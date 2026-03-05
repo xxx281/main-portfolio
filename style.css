@@ -1,0 +1,166 @@
+
+BODY{
+background-image: url(https://static.vecteezy.com/system/resources/thumbnails/001/849/553/small/modern-gold-background-free-vector.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+
+
+#HEADING{
+FONT-FAMILY: ARIAL,SANS-SERIF;
+COLOR: ORANGE;
+TEXT-ALIGN:CENTER;
+FONT-SIZE: 50PX;
+FONT-WEIGHT: 900;
+BACKGROUND-COLOR: WHITE;
+margin-top: 60px;
+}
+
+#P5{
+FONT-FAMILY: ARIAL,SANS-SERIF;
+COLOR: ORANGE;
+TEXT-ALIGN:CENTER;
+FONT-SIZE: 50PX;
+FONT-WEIGHT: 900;
+BACKGROUND-COLOR: WHITE;
+
+}
+
+
+
+#INDIA{
+    MARGIN-LEFT: 20PX;
+}
+
+#DIV{
+FONT-FAMILY: ARIAL,SANS-SERIF;
+COLOR: ORANGE;
+TEXT-ALIGN:CENTER;
+FONT-SIZE: 40PX;
+FONT-WEIGHT: 900;
+BACKGROUND-COLOR: WHITE;
+
+
+}
+
+#P{
+
+FONT-FAMILY:ARIAL,SANS-SERIF;
+FONT-SIZE:25PX;
+COLOR: WHITE;
+
+
+}
+
+#BUTTON{
+BACKGROUND-COLOR: ORANGE;
+COLOR: WHITE;
+FONT-FAMILY: ARIAL,SANS-SERIF;
+FONT-SIZE: 20PX;
+TEXT-ALIGN: CENTER;
+TRANSITION:ALL 0.5S;
+MARGIN: 10PX;
+BOX-RADIUS: 10PX;
+}
+
+BUTTON:hover{
+BACKGROUND-COLOR:DARKORANGE;
+BOX-SHADOW: 5PX 5PX 0PX BLACK;
+}
+
+#P2{
+FONT-FAMILY: ARIAL,SANS-SERIF;
+COLOR: ORANGE;
+TEXT-ALIGN:CENTER;
+FONT-SIZE: 40PX;
+FONT-WEIGHT: 900;
+BACKGROUND-COLOR: WHITE;
+
+
+}
+
+#P3{
+    FONT-FAMILY: ARIAL,SANS-SERIF;
+COLOR: WHITE;
+FONT-SIZE: 25PX;
+FONT-WEIGHT: 900;
+margin-LEFT: 400PX;
+text-align: right;
+
+}
+
+#P4{
+    FONT-FAMILY: ARIAL,SANS-SERIF;
+COLOR: WHITE;
+FONT-SIZE: 25PX;
+FONT-WEIGHT: 900;
+margin-LEFT: 400PX;
+text-align: right;
+
+}
+#P6{
+    FONT-FAMILY: ARIAL,SANS-SERIF;
+COLOR: WHITE;
+FONT-SIZE: 25PX;
+FONT-WEIGHT: 900;
+margin-LEFT: 400PX;
+text-align: right;
+
+}
+
+#PA{
+
+
+
+    WIDTH: 300PX;
+    HEIGHT: 200PX;
+    BORDER: 5PX SOLID BLACK;
+    DISPLAY: INLINE-BLOCK;
+    MARGIN-LEFT: 20PX;
+
+}
+
+#navbar{
+
+BACKGROUND-COLOR: rgb(0, 175, 250);
+height: 60px;
+width: 100%;
+position:fixed;
+top: 0px;
+transition: all 1s;;
+}
+
+#navbar:hover{
+background-color: blue;
+border: white 2px solid;
+}
+
+#navheading:hover{
+    background-color: black;
+    box-shadow: 5px 5px 0px orange;
+}
+
+#navheading{
+font-family: 'Times New Roman', Times, serif;
+font-weight: 900;
+color: white;
+transition: 1s;
+display:inline-block;
+}
+
+#navbutton{
+font-family: 'Times New Roman', Times, serif;
+font-weight: 900;
+color: black;
+transition: 1s;
+display:inline-block;
+margin-left: 175px;
+}
+
+#navbutton:hover{
+    background-color: black;
+    box-shadow: 5px 5px 0px orange;
+    color:aliceblue;
+}
